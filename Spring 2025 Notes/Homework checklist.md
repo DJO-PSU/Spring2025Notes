@@ -2,4 +2,4 @@
 - [ ] Restructure Database (due 1/20/2025)
 	- [ ] check with Professor 
 - [ ] Dive into Management Class
-
+- [ ] EE textbook
