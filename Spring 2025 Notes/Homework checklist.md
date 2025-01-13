@@ -1,0 +1,5 @@
+- [ ]  Python Academy (due 1/26/2025 ) [Lab 2: Python Academy](https://psu.instructure.com/courses/2378489/assignments/16787146?module_item_id=43647391)
+- [ ] Restructure Database (due 1/20/2025)
+	- [ ] check with Professor 
+- [ ] Dive into Management Class
+
