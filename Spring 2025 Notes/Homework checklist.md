@@ -3,3 +3,5 @@
 	- [ ] check with Professor 
 - [ ] Dive into Management Class
 - [ ] EE textbook
+- [ ] INART Read Chapter 1 (due 1/16/2025)
+- [ ] INART Write assignment (due 1/16/2025)

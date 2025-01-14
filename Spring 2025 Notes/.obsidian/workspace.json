@@ -69,16 +69,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE 211/EE 211 Sylabus.md",
+                "file": "EE 211/EE 211 Lecture notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EE 211 Sylabus"
+              "title": "EE 211 Lecture notes"
+            }
+          },
+          {
+            "id": "e8aa2dd6c70dded2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INART 55N/SP25 INART 55N Syllabus.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SP25 INART 55N Syllabus"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE 211/EE 211 Sylabus.md",
+                "file": "EE 211/EE 211 Lecture notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EE 211 Sylabus"
+              "title": "Backlinks for EE 211 Lecture notes"
             }
           },
           {
@@ -230,18 +242,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f82c4b2b6efd71ff",
+  "active": "eb438135c2984291",
   "lastOpenFiles": [
-    "EE 211/EE 211 Lecture notes.md",
-    "Untitled.canvas",
-    "Markdown Sandbox.md",
+    "INART 55N/INART 55N Lecture notes.md",
+    "INART 55N/SP25 INART 55N Syllabus.pdf",
     "Homework checklist.md",
     "Game 450/GAME 450 Lecture notes.md",
-    "Game 450/Game450-Syllabus.pdf",
+    "Untitled.canvas",
+    "EE 211/EE 211 Lecture notes.md",
+    "INART 55N",
     "EE 211/EE 211 Sylabus.md",
-    "Pasted image 20250113183012.png",
+    "Game 450/Game450-Syllabus.pdf",
     "EE 211/Pasted image 20250113183324.png",
     "EE 211/Pasted image 20250113183024.png",
+    "Markdown Sandbox.md",
+    "Pasted image 20250113183012.png",
     "EE 211 Syllabus",
     "EE 211",
     "Game 450",
