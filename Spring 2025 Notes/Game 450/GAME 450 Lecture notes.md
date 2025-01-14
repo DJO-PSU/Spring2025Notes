@@ -1,3 +1,4 @@
+Lab VM password: Behrend25!
 ## 1/13/2025 (lecture 1)
 - New structured class 
 - went over [Syllabus](Game450-Syllabus.pdf)
