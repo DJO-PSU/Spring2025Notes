@@ -16,3 +16,13 @@
 	14. another helicopter returns , maybe to pick people up from the attack
 	15. Jungle is at piece 
 - went over syllabus 
+- What is Sound?
+	- The vibration that propagates as mechanical wave of pressure through air, water, and solids.
+	- Passing energy through molecules
+	- Frequency (pitch)
+		:How fast it is vibrating, number of pressure cycles per second. Measured in Hertz (Hz). Relative highness or lowerness of a sound
+		:![[Pasted image 20250114144354.png]]
+	- Amplitude (loudness)
+		: 
+	- Timbre ( quality, color , tone)
+		:Different instruments

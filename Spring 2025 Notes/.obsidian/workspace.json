@@ -81,12 +81,14 @@
             "id": "e8aa2dd6c70dded2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "INART 55N/SP25 INART 55N Syllabus.pdf"
+                "file": "INART 55N/INART 55N Lecture notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SP25 INART 55N Syllabus"
+              "icon": "lucide-file",
+              "title": "INART 55N Lecture notes"
             }
           }
         ],
@@ -242,10 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb438135c2984291",
+  "active": "6a51fb0075866bd7",
   "lastOpenFiles": [
-    "INART 55N/INART 55N Lecture notes.md",
+    "INART 55N/Pasted image 20250114144354.png",
     "INART 55N/SP25 INART 55N Syllabus.pdf",
+    "INART 55N/INART 55N Lecture notes.md",
     "Homework checklist.md",
     "Game 450/GAME 450 Lecture notes.md",
     "Untitled.canvas",
