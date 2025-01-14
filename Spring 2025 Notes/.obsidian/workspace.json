@@ -67,16 +67,18 @@
             "id": "f82c4b2b6efd71ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "EE 211/EE 211 Sylabus.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "EE 211 Sylabus"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE 211/EE 211 Lecture notes.md",
+                "file": "EE 211/EE 211 Sylabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EE 211 Lecture notes"
+              "title": "Backlinks for EE 211 Sylabus"
             }
           },
           {
@@ -199,13 +201,23 @@
               "icon": "lucide-list",
               "title": "Outline of EE 211 Lecture notes"
             }
+          },
+          {
+            "id": "6a51fb0075866bd7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,20 +226,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c825e7cfbbc93437",
+  "active": "f82c4b2b6efd71ff",
   "lastOpenFiles": [
+    "EE 211/EE 211 Lecture notes.md",
+    "Untitled.canvas",
+    "Markdown Sandbox.md",
     "Homework checklist.md",
     "Game 450/GAME 450 Lecture notes.md",
     "Game 450/Game450-Syllabus.pdf",
-    "EE 211/EE 211 Lecture notes.md",
     "EE 211/EE 211 Sylabus.md",
     "Pasted image 20250113183012.png",
     "EE 211/Pasted image 20250113183324.png",
     "EE 211/Pasted image 20250113183024.png",
-    "Markdown Sandbox.md",
     "EE 211 Syllabus",
     "EE 211",
     "Game 450",
