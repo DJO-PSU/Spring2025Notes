@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d70d0ca80615d034",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcdeab844e3ed965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aceaa7045d64ef27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2025 Notes/INART 55N/INART 55N Lecture notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INART 55N Lecture notes"
+            }
+          },
+          {
+            "id": "061c4b1c4f8bc72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2025 Notes/MGMT 301/MGMT 301 Lecture notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MGMT 301 Lecture notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b6a6a7e734d04dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab55c7f31b27c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e2fd03588e7c50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2ba012fa5d09f12e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5c181902d4c101a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44fc9f54f8ae2ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4f5ae4e7c1bb37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96622c1802e5281",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring 2025 Notes/MGMT 301/MGMT 301 Lecture notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MGMT 301 Lecture notes"
+            }
+          },
+          {
+            "id": "43b5d445cda63085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring 2025 Notes/MGMT 301/MGMT 301 Lecture notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MGMT 301 Lecture notes"
+            }
+          },
+          {
+            "id": "19f0ebd560d094ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "381fdd2f5fce65b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring 2025 Notes/MGMT 301/MGMT 301 Lecture notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MGMT 301 Lecture notes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e8e2fd03588e7c50",
+  "lastOpenFiles": [
+    "Spring 2025 Notes/Markdown Sandbox.md",
+    "Spring 2025 Notes/INART 55N/INART 55N Lecture notes.md",
+    "Spring 2025 Notes/MGMT 301/MGMT 301 Lecture notes.md",
+    "Spring 2025 Notes/Homework checklist.md",
+    "Untitled",
+    "Spring 2025 Notes/MGMT 301",
+    "README.md"
+  ]
+}

@@ -3,6 +3,8 @@
 	- [ ] check with Professor 
 - [x] Dive into Management Class
 - [ ] Get Management textbook/sim
+- [ ] Pearson Chapter 1
+- [ ] Management chapter 1
 - [ ] EE textbook
 - [ ] INART Read Chapter 1 (due 1/16/2025)
 - [ ] INART Write assignment (due 1/16/2025)
