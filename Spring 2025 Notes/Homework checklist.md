@@ -23,6 +23,6 @@
 
 ## Music
 - [x] INART Read Chapter 1 (due 1/16)
-- [ ] INART Write assignment 01 (due 1/16)
+- [x] INART Write assignment 01 (due 1/16)
 - [ ] Read CH.01 (due 1/21)
 - [ ] Write assignment 02 Music description (1/21)
