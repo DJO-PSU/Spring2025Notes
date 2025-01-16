@@ -22,7 +22,7 @@
 - [ ] HW1 (due 1/24)
 
 ## Music
-- [ ] INART Read Chapter 1 (due 1/16)
-- [ ] INART Write assignment (due 1/16)
+- [x] INART Read Chapter 1 (due 1/16)
+- [ ] INART Write assignment 01 (due 1/16)
 - [ ] Read CH.01 (due 1/21)
 - [ ] Write assignment 02 Music description (1/21)
