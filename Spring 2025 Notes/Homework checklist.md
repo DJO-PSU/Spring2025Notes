@@ -1,6 +1,6 @@
 ## Game
 
-- [ ] Python Academy (due 1/26 ) [Lab 2: Python Academy](https://psu.instructure.com/courses/2378489/assignments/16787146?module_item_id=43647391)
+- [ ] Python Academy (due 1/26 ) [Lab 2: Python Academy](https://psu.instructure.com/courses/2378489/assignments/16787146?module_item_id=43647391) (now not possible?)
 - [ ] Python Academy quiz (1/22)
 ## Senior design
 
@@ -8,6 +8,7 @@
 	- [ ] check with Professor 
 - [ ] Report 3 (due 2/23)
 - [ ] Presentation 3 (due 2/28)
+- [ ] Forum Presentation (2/6)
 ## Management 
 - [x] Dive into Management Class
 - [x] Get Management textbook/sim

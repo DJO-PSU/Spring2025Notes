@@ -1,0 +1,18 @@
+#### Forum Presentation 
+- 30 ~ 35 minutes 
+- topic is a choice of something beyond the class
+- Each team must have a different topic 
+- not your capstone project, new technique used in project 
+- does not have to be positive 
+- possible topics 
+	- computing paradigms 
+	- programming framework
+	- new practices 
+	- agile stuff
+	- new design patterns 
+- Can be 1-4 topics 
+	- each person can talk about their own topic that themselves worked on
+-  Conference: Saturday May 3
+- Poster will only print if it is top 3 of department 
+	-  top 1 gets prize money \$\$\$\$  
+	- There is a video competition but they will not be printed out for obvious reasons  
