@@ -1,6 +1,6 @@
 ## Game
 
-- [ ] Python Academy (due 1/26 ) [Lab 2: Python Academy](https://psu.instructure.com/courses/2378489/assignments/16787146?module_item_id=43647391) (now not possible?)
+- [x] Python Academy (due 1/26 ) [Lab 2: Python Academy](https://psu.instructure.com/courses/2378489/assignments/16787146?module_item_id=43647391) (now not possible?)
 - [ ] Python Academy quiz (1/22)
 ## Senior design
 
